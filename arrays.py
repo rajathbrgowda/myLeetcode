@@ -38,4 +38,6 @@ class Solution:
                 nums[l] = nums[r]
                 l +=1
         return l
-            
+
+# Time complexity: O(n)
+# Space complexity: O(1)            
